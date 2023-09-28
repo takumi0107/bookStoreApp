@@ -1,0 +1,8 @@
+I create Sign Up and Login feature.
+if you click create account button, the information of user name and password will be
+saved in firebase. In firebase root is "users" and child will be their user name, so that
+I can search with user name when user login. after sign up the screen automatically changed
+to Login screen, and if user click Login button, from firebase, user name will be searched.
+if there is user successfully login, otherwise show message accordingly.
+in MainActivity, use boolean to detect this user is authenticated or not.
+after login user will be passed to MainActivity screen with "Authorized" key and true.

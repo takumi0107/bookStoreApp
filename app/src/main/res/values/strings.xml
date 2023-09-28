@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookStoreApp</string>
+    <string name="navigation_drawer_open">drawer is now open</string>
+    <string name="navigation_drawer_close">drawer is now close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
